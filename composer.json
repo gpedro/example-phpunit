@@ -1,0 +1,15 @@
+{
+    "name": "gpedro/coffee",
+    "require": {
+        "phpunit/phpunit": "^5.3"
+    },
+    "autoload": {
+        "classmap": ["src"]
+    },
+    "authors": [
+        {
+            "name": "Gabriel Pedro",
+            "email": "gpedro831@gmail.com"
+        }
+    ]
+}
